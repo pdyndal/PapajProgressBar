@@ -1,4 +1,4 @@
-# NyanProgressBar
+# PapajProgressBar
 
 A pretty nyan cat progress bar for IntelliJ IDEA and other JetBrains IDEs.
 
