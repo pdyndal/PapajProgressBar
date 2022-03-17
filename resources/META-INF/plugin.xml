@@ -1,12 +1,12 @@
 <idea-plugin>
   <id>some.awesome</id>
-  <name>Nyan Progress Bar</name>
+  <name>Papaj Progress Bar</name>
   <version>1.14</version>
   <idea-version since-build="192"/>
   <vendor email="dmitry.batkovich@jetbrains.com">Dmitry Batkovich</vendor>
 
   <description><![CDATA[
-      Pretty progress bars with nyan cat for IJ based IDEs.
+      Pretty progress bars with papaj cat for IJ based IDEs.
     ]]></description>
 
   <change-notes><![CDATA[
@@ -38,7 +38,7 @@
 
   <application-components>
     <component>
-      <implementation-class>NyanApplicationComponent</implementation-class>
+      <implementation-class>PapajApplicationComponent</implementation-class>
     </component>
   </application-components>
 </idea-plugin>
